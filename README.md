@@ -19,13 +19,13 @@ Scripts for converting raw millivolt data  to sensitivity.
 
 ```hill_transformation_pol_sensitivity.py```, ```hill_transformation_spec_sensitivity```, ```hill_transformation_contour_likelihood_gaussians.py```.
 
-##[Statistical Analysis scripts](https://github.com/JJFosterLab/DRA-coupling/tree/main/Statistical_Analysis)
+## [Statistical Analysis scripts](https://github.com/JJFosterLab/DRA-coupling/tree/main/Statistical_Analysis)
 
 Scripts for all statistical analyses.
 
 ```2_way_ANOVA_ShapiroWilk_TukeyHSD_KruskalWallis_Dunns.py```, ```FWHM_vs_polsens_model_table.py```
 
-##[Visualization scripts](https://github.com/JJFosterLab/DRA-coupling/tree/main/Visualization)
+## [Visualization scripts](https://github.com/JJFosterLab/DRA-coupling/tree/main/Visualization)
 
 Scripts only for data visualization.
 
