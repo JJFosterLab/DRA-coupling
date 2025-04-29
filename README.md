@@ -14,10 +14,10 @@ Scripts for organisation, plotting and analysis of raw millivolt data recorded t
 Scripts for converting raw millivolt data  to sensitivity.
 ```hill_transformation_pol_sensitivity.py```, ```hill_transformation_spec_sensitivity``` and ```hill_transformation_contour_likelihood_gaussians.py```.
 ## ETC
-[Statistical Analysis scripts FAKE LINK]
+[Statistical Analysis scripts FAKE LINK](https://github.com/JJFosterLab/DRA-coupling/tree/master/elphys_scripts/Statistical_Analyses)
 These scripts were used for all statistical analyses.
 ```2_way_ANOVA_ShapiroWilk_TukeyHSD_KruskalWallis_Dunns.py```, ```FWHM_vs_polsens_model_table.py```
-[Visualization scripts FAKE LINK]
+[Visualization scripts FAKE LINK](https://github.com/JJFosterLab/DRA-coupling/tree/master/elphys_scripts/Visualization)
 These scripts were used only for data visualization.
 ```FWHM_vs_polsens.py```, ```cos2_pol_sensitivities_multiple.py```, ```boxplot_polsens_FHM.py```, ```heatmap_delays_smoothed_opacity.py```
 
