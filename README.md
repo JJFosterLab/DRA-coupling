@@ -8,11 +8,11 @@ The source code is [electrophysiology analysis FAKE LINK](https://github.com/JJF
 All scripts written by GE Kolyfetis. Data collected by G Belušič. All analysis performed by GE Kolyfetis.
 
 # File Manifest
-## [WCP file processing FAKE LINK](https://github.com/JJFosterLab/DRA-coupling/tree/master/elphys_scripts/WCP_file_processing)
-Scripts for organisation, plotting and analysis of raw millivolt data recorded to WCP files during electrophysiological experiments.  ```import_wcp_split_DNmodel.py```, ```responses_localmaxima.py``` and ```stavenga_spec_sensitivities.py``` process raw data according to relevant experimental conditions.
+## [WCP file processing](https://github.com/JJFosterLab/DRA-coupling/tree/main/WCP_file_processing))
+Scripts for organisation, plotting and analysis of raw millivolt data recorded to WCP files during electrophysiological experiments.  ```import_wcp_split_DNmodel.py```, ```responses_localmaxima.py``` process raw data according to relevant experimental conditions.
 ## [Hill curve transformation FAKE LINK](https://github.com/JJFosterLab/DRA-coupling/tree/master/elphys_scripts/Hill_curve_transformation)
 Scripts for converting raw millivolt data  to sensitivity.
-```hill_transformation_pol_sensitivity.py```, ```hill_transformation_spec_sensitivity``` and ```hill_transformation_contour_likelihood_gaussians.py```.
+```hill_transformation_pol_sensitivity.py```, ```hill_transformation_spec_sensitivity```, ```hill_transformation_contour_likelihood_gaussians.py```.
 ## ETC
 [Statistical Analysis scripts FAKE LINK](https://github.com/JJFosterLab/DRA-coupling/tree/master/elphys_scripts/Statistical_Analyses)
 Scripts for all statistical analyses.
