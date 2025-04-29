@@ -8,7 +8,7 @@ The source code is [electrophysiology analysis FAKE LINK](https://github.com/JJF
 All scripts written by GE Kolyfetis. Data collected by G Belušič. All analysis performed by GE Kolyfetis.
 
 # File Manifest
-## [WCP file processing](https://github.com/JJFosterLab/DRA-coupling/tree/main/WCP_file_processing))
+## [WCP file processing](https://github.com/JJFosterLab/DRA-coupling/tree/main/WCP_file_processing)
 Scripts for organisation, plotting and analysis of raw millivolt data recorded to WCP files during electrophysiological experiments.  ```import_wcp_split_DNmodel.py```, ```responses_localmaxima.py``` process raw data according to relevant experimental conditions.
 ## [Hill curve transformation FAKE LINK](https://github.com/JJFosterLab/DRA-coupling/tree/master/elphys_scripts/Hill_curve_transformation)
 Scripts for converting raw millivolt data  to sensitivity.
