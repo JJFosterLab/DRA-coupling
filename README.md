@@ -2,7 +2,7 @@
 
 Electrophysiological recordings reveal photoreceptor coupling in the dorsal rim areas of honeybee and bumblebee eyes
 ====================
-This repository contains files relevant to the manuscript ["_Electrophysiological recordings reveal photoreceptor coupling in the dorsal rim areas of honeybee and bumblebee eyes FAKE LINK_"](https://biorxiv/fake_link) by George Kolyfetis, Gregor Belušič and James Foster (2025).
+This repository contains files relevant to the manuscript ["_Electrophysiological recordings reveal photoreceptor coupling in the dorsal rim areas of honeybee and bumblebee eyes FAKE LINK_"](https://www.biorxiv.org/content/10.1101/2025.04.29.651169v1) by George Kolyfetis, Gregor Belušič and James Foster (2025).
 The source code is electrophysiology analysis, written in ```Python``` by George Kolyfetis.  Raw data (```.wcp``` files) and analysis are available from [Figshare](https://doi.org/10.6084/m9.figshare.28890938.v1). 
 ### Contributions:
 All scripts written by GE Kolyfetis. Data collected by G Belušič. All analysis performed by GE Kolyfetis.
